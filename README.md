@@ -1,5 +1,9 @@
 # preact-poc
 
+Create project
+```sudo npm install -g --unsafe-perm preact-cli
+preact create default preact-poc``` 
+
 ## CLI Commands
 
 ``` bash
